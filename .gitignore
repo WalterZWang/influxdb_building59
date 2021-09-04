@@ -1,4 +1,12 @@
+# error message
+*.err
+
+# password
+*.config
+
+# data
 *.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
